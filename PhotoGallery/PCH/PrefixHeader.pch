@@ -19,6 +19,7 @@
 #import "Keys.h"
 #import "Utils.h"
 #import "UIImageView+UIActivityIndicatorForSDWebImage.h"
+#import "ModelPhoto.h"
 
 
 
